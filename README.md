@@ -13,7 +13,7 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- </b> GRC Security Policies Project </b>
+- </b>GRC Security Policies Project </b>
     - [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-) </b>
 - <b>FOG Project </b>
   - [FOG PROJECT ](https://github.com/CyberSecHazaa/HazaaFOGPROJECT)

@@ -14,6 +14,7 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>FOG Project </b>
+  - [GRC Security Policies Project] (https://github.com/CyberSecHazaa/GRC_Security_Policies-) </b>
   - [FOG PROJECT ](https://github.com/CyberSecHazaa/HazaaFOGPROJECT)
 - <b>Pfsense Virtual Network </b>
   - [Pfsense PROJECT](https://github.com/CyberSecHazaa/HazaaVirtualNetwork) <b><i>

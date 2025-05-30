@@ -13,6 +13,9 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Risk Assessment Personal Devices </b>
+    - [Risk Assessment Personal Devices](https://github.com/CyberSecHazaa/Risk_Assessment_Personal_Devices) </b>
+
 - <b>GRC Simple Security Policies </b>
     - [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-) </b>
 - <b>FOG Project </b>

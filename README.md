@@ -13,14 +13,26 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Risk Assessment Personal Devices </b>
-    - [Risk Assessment Personal Devices](https://github.com/CyberSecHazaa/Risk_Assessment_Personal_Devices) </b>
 
-- <b>GRC Simple Security Policies </b>
-    - [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-) </b>
-- <b>FOG Project </b>
-  - [FOG PROJECT ](https://github.com/CyberSecHazaa/HazaaFOGPROJECT)
-- <b>Pfsense Virtual Network </b>
-  - [Pfsense PROJECT](https://github.com/CyberSecHazaa/HazaaVirtualNetwork) <b><i>
-- <b>Raspberry Pi Projects </b>
-  - [PI PROJECT](https://github.com/CyberSecHazaa/PiBox) <b><i>
+## 🛡️ GRC Projects
+Projects focused on Governance, Risk, and Compliance (GRC). These include policy frameworks, risk assessments, compliance tracking tools, and audit documentation.
+
+- [Risk Assessment Personal Devices](https://github.com/CyberSecHazaa/Risk_Assessment_Personal_Devices) 
+- [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-) 
+
+---
+
+## 🔵 Blue Teaming Projects
+Projects related to defensive cybersecurity operations such as monitoring, incident response, threat hunting, and security automation.
+
+- [Pfsense PROJECT](https://github.com/CyberSecHazaa/HazaaVirtualNetwork)
+
+---
+
+## 🔴 Red Teaming Projects
+Offensive security projects including penetration testing, adversary emulation, and exploit development.
+
+- [PI PROJECT](https://github.com/CyberSecHazaa/PiBox)
+
+
+

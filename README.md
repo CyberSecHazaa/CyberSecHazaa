@@ -19,7 +19,7 @@ Projects focused on Governance, Risk, and Compliance (GRC). These include policy
 
 - [Risk Assessment Personal Devices](https://github.com/CyberSecHazaa/Risk_Assessment_Personal_Devices) 
 - [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-)
-- [Phishing and Security Awareness Program](https://github.com/CyberSecHazaa/GRC_Phishing_Security_Awareness_Program-) 
+- [Phishing and Security Awareness Program](https://github.com/CyberSecHazaa/GRC_Phishing_Security_Awareness_Program) 
 
 ---
 

@@ -18,7 +18,8 @@ Proficient in setting up secure IoT systems and ensuring reliable communication 
 Projects focused on Governance, Risk, and Compliance (GRC). These include policy frameworks, risk assessments, compliance tracking tools, and audit documentation.
 
 - [Risk Assessment Personal Devices](https://github.com/CyberSecHazaa/Risk_Assessment_Personal_Devices) 
-- [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-) 
+- [GRC Security Policies Project](https://github.com/CyberSecHazaa/GRC_Security_Policies-)
+- [Phishing and Security Awareness Program](https://github.com/CyberSecHazaa/GRC_Phishing_Security_Awareness_Program-) 
 
 ---
 
